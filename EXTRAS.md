@@ -1,3 +1,3 @@
 # SQLito - Extras
 
-[cangrena](https://www.youtube.com/watch?v=iHdQNjKaBi0)
+[![Cangrena](http://img.youtube.com/vi/iHdQNjKaBi0/0.jpg)](http://www.youtube.com/watch?v=iHdQNjKaBi0)
