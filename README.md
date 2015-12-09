@@ -18,10 +18,10 @@ Contributors
 TODO
 ____
 
-[ ] Implement an ORM library
-[ ] Use GitHub for something useful
-[ ] Create SQLitoDBB, variant of SQLito
-[X] Push some extra content
+- [ ] Implement an **ORM** library
+- [ ] Use GitHub for something useful
+- [ ] Create **SQLitoDBB**, variant of **SQLito**
+- [X] Push some extra content
 
 You can find the extra content [here][3]
 
