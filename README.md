@@ -1,7 +1,7 @@
 # SQLito
-Que no me entere yo que SQLito pasa hambre
+### Que no me entere yo que SQLito pasa hambre
 
-[EN] Don't let anyone know that SQLito is hungry
+*[EN] Don't let anyone know that SQLito is hungry*
 
 An interesting **ORM** library, but without the ORM implementation.
 
