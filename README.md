@@ -3,16 +3,16 @@
 
 *[EN] Don't let anyone know that SQLito is hungry*
 
-An interesting **ORM** library, but without the ORM implementation.
+An interesting **ORM** library, but without the **ORM** library.
 
-If you don't speak Spanish, you probably won't get the joke.
+### If you don't speak Spanish, you probably won't get the joke.
 
-# Then you can implement the ORM
+#### Then you can implement the ORM
 
 Contributors
 ------------
 
-* Olmo Gallegos Hernández - [@voghDev][10] - [mobiledevstories.com][11]
+* Olmo Gallegos Hernández - [@voghDev][1] - [mobiledevstories.com][2]
 * Any developer buena gente that wants to write ~~code~~ something
 
 TODO
@@ -23,6 +23,8 @@ ____
 [ ] Create SQLitoDBB, variant of SQLito
 [X] Push some extra content
 
-You can find the extra content [here][1]
+You can find the extra content [here][3]
 
-[1] https://github.com/voghDev/SQLito/blob/master/EXTRAS.md
+[1]: http://twitter.com/voghDev
+[2]: http://www.mobiledevstories.com
+[3]: https://github.com/voghDev/SQLito/blob/master/EXTRAS.md
