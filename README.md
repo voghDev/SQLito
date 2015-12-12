@@ -7,7 +7,7 @@ An interesting **ORM** library, but without the **ORM** library.
 
 ### If you don't speak Spanish, you probably won't get the joke.
 
-#### Then you can implement the ORM
+##### (Then start implementing the ORM)
 
 Contributors
 ------------
