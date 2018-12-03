@@ -1,12 +1,11 @@
 # SQLito
 
-## An ORM Library based on cross and stripe (cruz y raya)
-
 ### Que no me entere yo que SQLito pasa hambre
 
 *[EN] Don't let anyone know that SQLito is hungry*
 
-An interesting **ORM** library, but without the **ORM** library.
+An interesting **ORM** library based on cross and stripe (cruz y raya)
+But without the **ORM** library.
 
 ### If you don't speak Spanish, you probably won't get the joke.
 
